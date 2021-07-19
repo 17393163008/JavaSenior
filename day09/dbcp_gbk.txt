@@ -1,0 +1,3 @@
+user=pan         //用户名
+password=root    //密码
+我爱中国        这就是
